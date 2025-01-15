@@ -5,7 +5,7 @@ You can talk to me by <a href="https://discord.com/users/1049142390901973032">Di
 </div>
 
 ### 🕒 WIP's
-[Voltaris](https://github.com/CynoAI/Voltaris)<br>
+Nothing yet :)<br>
 
 
 ### 💎 My Most Used Languages
