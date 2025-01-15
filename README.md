@@ -13,7 +13,7 @@ Nothing yet :)<br>
 
 ### 📚 Currently Learning
 - AI Development<br>
-- CSharp<br>
+- Andriod<br>
 - Game Development<br>
 ----------
 _@2024 pixelking990_ 
