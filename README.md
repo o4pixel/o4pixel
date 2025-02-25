@@ -12,9 +12,8 @@ Minecraft Cursed Roulette<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📚 Currently Learning
-- AI Development<br>
-- Andriod<br>
-- Game Development<br>
+- Minecraft Mod Development
+- Python AI
 ----------
 _@2025 pixelking990_ 
 
