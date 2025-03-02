@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm o4! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Aspiring+Learner+%26+Game+Dev;AI+Enthusiast;Building+Vynorverse+%26+TwelveLogic;Lover+of+Python%2C+TypeScript%2C+Java%2C+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Building+Vynorverse+%26+TwelveLogic;Lover+of+Python%2C+TypeScript%2C" alt="Typing SVG" />
 </p>
 
 ---
