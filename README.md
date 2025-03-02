@@ -1,20 +1,60 @@
-### 🐱‍💻 Introduction
-<div align="left">
-I'm a random guy who enjoys programming stuff as a hobby. <br>
-You can talk to me by <a href="https://discord.com/users/1049142390901973032">Direct Messaging</a> me on discord.<br>
-</div>
+<h1 align="center">Hi there, I'm o4! 👋</h1>
 
-### 🕒 WIP's
-Minecraft Cursed Roulette<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Aspiring+Filmmaker+%26+Game+Dev;AI+Enthusiast;Building+Vynorverse+%26+TwelveLogic;Lover+of+Python%2C+TypeScript%2C+Java%2C+C%23" alt="Typing SVG" />
+</p>
 
+---
 
-### 💎 My Most Used Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🚀 About Me  
+- 🎬 Passionate about **AI, and making fun games and mods**  
+- 🌌 Building **Vynorverse**, an AI-Agent marketplace.  
+- Working on making multiple game mods!
+---
 
-### 📚 Currently Learning
-- Minecraft Mod Development
-- Python AI
-----------
-_@2025 pixelking990_ 
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pixelking990&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
+---
+
+## 🔥 Top Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelking990&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pixelking990&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10" alt="Trophies" />
+</p>
+
+---
+
+## ⚡ Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pixelking990&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+---
+
+## 💻 Favorite Languages  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
+
+---
+Discord: o4pixel
+---
+  
+✨ _If you like my work, consider giving a ⭐️ to my repositories!_  
