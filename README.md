@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 - 🎬 Passionate about **AI, and making fun games and mods**  
 - 🌌 Building **Vynorverse**, an AI-Agent marketplace.  
-- 📺Working on making multiple game mods!
+- 📺 Working on making multiple game mods!
 ---
 
 ## 📊 GitHub Stats  
