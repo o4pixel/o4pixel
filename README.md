@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm o4! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Building+Vynorverse+%26+TwelveLogic;Lover+of+Python%2C+TypeScript%2C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Building+Vynorverse+%26+TwelveLogic;" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 - 🎬 Passionate about **AI, and making fun games and mods**  
 - 🌌 Building **Vynorverse**, an AI-Agent marketplace.  
-- Working on making multiple game mods!
+- 📺Working on making multiple game mods!
 ---
 
 ## 📊 GitHub Stats  
@@ -20,7 +20,7 @@
 
 ---
 
-## 🔥 Top Languages  
+## 💎 Top Languages  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelking990&layout=compact&theme=tokyonight" alt="Top Languages" />
