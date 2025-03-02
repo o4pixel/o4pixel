@@ -15,7 +15,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelking990&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=o4pixel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ## 💎 Top Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelking990&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o4pixel&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pixelking990&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=o4pixel&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10" alt="Trophies" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ## ⚡ Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pixelking990&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=o4pixel&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
