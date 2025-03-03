@@ -15,7 +15,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o4pixel&show_icons=true&theme=tokyonight&cache_seconds=900" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=o4pixel&show_icons=true&theme=tokyonight&cache_seconds=800" alt="GitHub Stats" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ## 💎 Top Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o4pixel&layout=compact&theme=tokyonight&cache_seconds=900" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o4pixel&layout=compact&theme=tokyonight&cache_seconds=800" alt="Top Languages" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=o4pixel&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10&cache_seconds=900" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=o4pixel&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10&cache_seconds=800" alt="Trophies" />
 </p>
 
 ---
