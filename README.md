@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm o4! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Roblox+Scripter+%7C+Minecraft+Server+Dev;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Roblox+Scripter+%7C+Minecraft+Server+Management;" alt="Typing SVG" />
 </p>
 
 ---
