@@ -6,26 +6,6 @@
 
 ---
 
-## What I Do
-- Discord bot development – automation, moderation, advanced commands  
-- Roblox scripting – DataStores, UI systems, leaderboards  
-- Minecraft modding & server optimization – plugins, backend configs  
-- Rapid scripting & debugging  
-- Gameplay and UX balancing  
-
----
-
-## Tech & Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
----
-
 ## GitHub Stats
 
 <p align="center">
